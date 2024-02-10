@@ -1,22 +1,25 @@
 # main links links
 main:
+  # - title: "1page-CV"
+  #   url: /files/LynnCherif_extended_resume.pdf
+
+  - title: "Academic CV"
+    url: /files/LynnCherif_extended_resume.pdf
+
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=QfmZ_bEAAAAJ&hl=en
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Podcasts"
+    url: https://www.buzzsprout.com/1832809  
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
