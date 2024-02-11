@@ -10,7 +10,8 @@ main:
     url: https://scholar.google.com/citations?user=QfmZ_bEAAAAJ&hl=en
 
   - title: "Podcasts"
-    url: https://www.buzzsprout.com/1832809  
+    # url: https://www.buzzsprout.com/1832809  
+    url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/    
