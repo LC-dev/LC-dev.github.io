@@ -11,7 +11,7 @@ main:
 
   - title: "Podcasts"
     # url: https://www.buzzsprout.com/1832809  
-    url: /talks/
+    url: /podcasts/
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -21,6 +21,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+    ß
   # - title: "Guide"
   #   url: /markdown/
