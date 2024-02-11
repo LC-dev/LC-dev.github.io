@@ -2,9 +2,9 @@
 title: "Chloë Ryan, Katherine Beaulieu & Kussil Oumedjbeur: Generative AI & Art"
 collection: podcasts
 type: "Hosted by Samar-Balkiss Besnaskeur and Lynn Cherif"
-permalink: https://www.buzzsprout.com/1832809/13006298-chloe-ryan-katherine-beaulieu-kussil-oumedjbeur-generative-ai-art
-# venue: "Testing Institute of America 2014 Annual Conference"
-# date: 2014-03-01
+url: https://www.buzzsprout.com/1832809/13006298-chloe-ryan-katherine-beaulieu-kussil-oumedjbeur-generative-ai-art
+venue:
+date: 2022-06-08
 # location: "Los Angeles, CA"
 ---
 
