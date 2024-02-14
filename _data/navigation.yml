@@ -1,10 +1,10 @@
 # main links links
 main:
   # - title: "1page-CV"
-  #   url: /files/LynnCherif_extended_resume.pdf
+  #   url: /files/lynn-cherif-academic-cv.pdf
 
   - title: "Academic CV"
-    url: /files/LynnCherif_extended_resume.pdf
+    url: /files/lynn-cherif-academic-cv.pdf
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=QfmZ_bEAAAAJ&hl=en
