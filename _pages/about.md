@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Master's thesis student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila - Quebec AI Institute](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). I previously earned a Bachelor's degree in Honours Mechanical Engineering with a minor in Computer Science, where I was advised by Prof. [Yaoyao Fiona Zhao](https://www.mcgill.ca/mecheng/yaoyao-zhao). 
+I am a first year Master's thesis student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila - Quebec AI Institute](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). I previously earned a Bachelor's degree in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca), where I was advised by Prof. [Yaoyao Fiona Zhao](https://www.mcgill.ca/mecheng/yaoyao-zhao). 
 
 My current research interests revolve around combining **_reinforcement learning_** (RL), **_deep learning_**, and **_ideas from psychology_** (see [affordances](https://en.wikipedia.org/wiki/Affordance)) **_to develop broadly intelligent agents that can efficiently, continually, and robustly adapt in real-world environments with large action spaces_**. I am also interested in how we might be able to **_leverage large powerful generative models to benefit RL agents' learning and performance_**. 
 
