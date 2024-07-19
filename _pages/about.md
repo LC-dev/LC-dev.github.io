@@ -11,7 +11,7 @@ redirect_from:
 I am a first year M.S. thesis student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila - Quebec AI Institute](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca), where I was advised by Prof. [Yaoyao Fiona Zhao](https://www.mcgill.ca/mecheng/yaoyao-zhao). 
 
 My current research focuses on:
-1. Building **intent-aligned** and **efficient reinforcement learning (RL) agents** through the lens of [affordances](https://en.wikipedia.org/wiki/Affordance)).
+1. Building **intent-aligned** and **efficient reinforcement learning (RL) agents** through the lens of [affordances](https://en.wikipedia.org/wiki/Affordance).
 2. Leveraging **large powerful generative models (e.g., LLMs/VLMs) to benefit RL agents'** learning and performance. 
 
 During my undergraduate, I developed AI solutions for cybersecurity at [Dell Technologies](https://www.dell.com/en-ca)/[Secureworks](https://www.secureworks.com), built robots that paint beautiful artwork at [Acrylic Robotics](https://www.acrylicrobotics.ca), and worked on computer-vision-based anomaly selection for metal 3D printing processes, amongst others. I also co-produced the [McGill AI Podcast](https://www.buzzsprout.com/1832809) where we discussed AI research, ethics, and applications with distinguished contributors in the field. 
