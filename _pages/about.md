@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). My research is generously supported by the Fonds de Recherche du Québec (FRQNT) and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca).
+I am a second-year year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). My research is generously supported by the Fonds de Recherche du Québec (FRQNT) and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca).
 
 My current research focuses on:
 1. Building **intent-aligned** and **efficient reinforcement learning (RL) agents** through the lens of [affordances](https://en.wikipedia.org/wiki/Affordance).
