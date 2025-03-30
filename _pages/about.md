@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). My research is generously supported by the Fonds de Recherche du Québec (FRQNT) and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca).
+I am a second-year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io). My research is generously supported by the Fonds de Recherche du Québec (FRQNT) and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). This summer, I'm excited to be joining [Google DeepMind](https://deepmind.google).
 
 My current research focuses on building:
 1. **Efficient** agents by leveraging foundation models (e.g., LLMs/VLMs) as priors
