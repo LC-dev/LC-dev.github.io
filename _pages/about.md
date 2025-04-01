@@ -26,7 +26,7 @@ During my undergraduate, I developed AI solutions for cybersecurity at [Dell Tec
 
 Outside of research, I run, weight lift, cycle, and read.
 
-Feel free to reach out for anything research related, always happy to chat!
+Feel free to reach out for anything research related -- always happy to chat!
 
 ## Research
 ### 1. Efficient and reasoning agents by combining LLMs/VLMs and RL
