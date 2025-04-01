@@ -20,7 +20,7 @@ I am interested in both theoretical and empirical research, focusing on building
 4. Human-inspired agents that can **continually learn** 
 5. **AI for accelerating scientific discovery**
 
-During my undergraduate, I developed AI solutions for cybersecurity at [Dell Technologies](https://www.dell.com/en-ca)/[Secureworks](https://www.secureworks.com), built robots that paint beautiful artwork at [Acrylic Robotics](https://www.acrylicrobotics.ca), and worked on [computer vision for anomaly selection in metal 3D printing processes](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=QfmZ_bEAAAAJ&citation_for_view=QfmZ_bEAAAAJ:9yKSN-GCB0IC) and [optimizing cooling systems of advanced laser-thermal propulsion techniques](https://www.sciencedirect.com/science/article/abs/pii/S0094576521006305), amongst others. I also co-produced the [McGill AI Podcast](https://www.buzzsprout.com/1832809) where we discussed AI research, ethics, and applications with distinguished contributors in the field. 
+During my undergraduate, I developed AI solutions for cybersecurity at [Dell Technologies](https://www.dell.com/en-ca)/[Secureworks](https://www.secureworks.com), built robots that paint beautiful artwork at [Acrylic Robotics](https://www.acrylicrobotics.ca), worked on computer vision for anomaly selection in [metal 3D printing processes](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=QfmZ_bEAAAAJ&citation_for_view=QfmZ_bEAAAAJ:9yKSN-GCB0IC), and optimized cooling systems of [advanced laser-thermal propulsion techniques](https://www.sciencedirect.com/science/article/abs/pii/S0094576521006305), amongst others. I also co-produced the [McGill AI Podcast](https://www.buzzsprout.com/1832809) where we discussed AI research, ethics, and applications with distinguished contributors in the field, and was actively involved in student life.
 
 Outside of research, I run, weight lift, cycle, and read.
 
@@ -28,10 +28,10 @@ Feel free to reach out for anything research related, always happy to chat!
 
 ## Research
 ### 1. Efficient and reasoning agents by combining LLMs/VLMs and RL
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="/_pages/CoGA.png" alt="Paper Teaser" style="width: 100%;">
+    <td style="width: 220px; text-align: center; vertical-align: top;">
+      <img src="/_pages/CoGA.png" alt="Paper Teaser" style="width: 200px; display: block; margin: auto;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <strong><a href="https://openreview.net/forum?id=8ECfBsjJKZ">Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning</a></strong><br>
@@ -44,15 +44,15 @@ Feel free to reach out for anything research related, always happy to chat!
 </table>
 
 ### 2. Safe and aligned agents
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="/_pages/redteaming.png" alt="Paper Teaser" style="width: 100%;">
+    <td style="width: 220px; text-align: center; vertical-align: top;">
+      <img src="/_pages/redteaming.png" alt="Paper Teaser" style="width: 200px; display: block; margin: auto;">
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-left: 15px;">
       <strong><a href="https://arxiv.org/abs/2405.18540">Learning diverse attacks on large language models for robust red-teaming and safety tuning</a></strong><br>
       <em>Seanie Lee, Minsu Kim, <strong>Lynn Cherif</strong>, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Moksh Jain</em><br>
-      <em>International Conference on Learning Representations (ICLR), 2025.</em> <strong style="color: red;"></strong><br>
+      <em>International Conference on Learning Representations (ICLR), 2025.</em><br>
       <a href="https://arxiv.org/abs/2405.18540">paper</a><br><br>
       Max-entropy RL fine-tuning to generate a diverse set of adversarial prompts that robustly elicit harmful or undesirable outputs from a range  of LLMs. 
     </td>
@@ -60,15 +60,15 @@ Feel free to reach out for anything research related, always happy to chat!
 </table>
 
 ### 3. Human-inspired agents that can continually learn
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="/_pages/parseval.png" alt="Paper Teaser" style="width: 100%;">
+    <td style="width: 220px; text-align: center; vertical-align: top;">
+      <img src="/_pages/parseval.png" alt="Paper Teaser" style="width: 200px; display: block; margin: auto;">
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-left: 15px;">
       <strong><a href="https://arxiv.org/abs/2412.07224">Parseval Regularization for Continual Reinforcement Learning</a></strong><br>
       <em>Wesley Chung, <strong>Lynn Cherif</strong>, David Meger, Doina Precup</em><br>
-      <em>Neural Information Processing Systems (NeurIPS), 2024</em> <strong style="color: red;"></strong><br>
+      <em>Neural Information Processing Systems (NeurIPS), 2024</em><br>
       <a href="https://arxiv.org/abs/2412.07224">paper</a><br><br>
       A regularization method to maintain the orthogonality of weight matrices during training, preserving optimization properties and enhancing learning in sequential RL tasks. 
     </td>
@@ -76,15 +76,15 @@ Feel free to reach out for anything research related, always happy to chat!
 </table>
     
 ### 4. AI for accelerating scientific discovery
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="/_pages/pbf.png" alt="Paper Teaser" style="width: 100%;">
+    <td style="width: 220px; text-align: center; vertical-align: top;">
+      <img src="/_pages/pbf.png" alt="Paper Teaser" style="width: 200px; display: block; margin: auto;">
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-left: 15px;">
       <strong><a href="https://arxiv.org/pdf/2308.14861">Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams</a></strong><br>
       <em><strong>Lynn Cherif</strong>*, Mutahar Safdar, Guy Lamouche, Priti Wanjara, Padma Paul, Gentry Wood, Max Zimmermann, Florian Hannesen, Yaoyao Fiona Zhao</em><br>
-      <em> International Federation of Automatic Control (IFAC), 2023</em> <strong style="color: red;"></strong><br>
+      <em>International Federation of Automatic Control (IFAC), 2023</em><br>
       <a href="https://arxiv.org/abs/2412.07224">paper</a><br><br>
       Deep computer vision learning models to classify melt pool sequence images in metal additive manufacturing to predict in-line printing defects.
     </td>
