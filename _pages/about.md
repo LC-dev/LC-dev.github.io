@@ -28,14 +28,14 @@ Feel free to reach out for anything research related, always happy to chat!
 
 ## Research
 ### 1. Efficient and reasoning agents by combining LLMs/VLMs and RL
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 220px; vertical-align: top; text-align: center;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 220px; vertical-align: top; border: none;">
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="/_pages/CoGA.png" alt="Paper Teaser" style="width: 200px;">
       </div>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="vertical-align: top; padding-left: 15px; border: none;">
       <strong><a href="https://openreview.net/forum?id=8ECfBsjJKZ">Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning</a></strong><br>
       <em><strong>Lynn Cherif*</strong>, Flemming Kondrup*, David Venuto, Ankit Anand, Doina Precup, Khimya Khetarpal</em><br>
       <em>Third Workshop on Deep Learning for Code (ICLR), 2025.</em><br>
@@ -46,52 +46,52 @@ Feel free to reach out for anything research related, always happy to chat!
 </table>
 
 ### 2. Safe and aligned agents
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 220px; vertical-align: top; text-align: center;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 220px; vertical-align: top; border: none;">
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="/_pages/redteaming.png" alt="Paper Teaser" style="width: 200px;">
       </div>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="vertical-align: top; padding-left: 15px; border: none;">
       <strong><a href="https://arxiv.org/abs/2405.18540">Learning diverse attacks on large language models for robust red-teaming and safety tuning</a></strong><br>
       <em>Seanie Lee, Minsu Kim, <strong>Lynn Cherif</strong>, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Moksh Jain</em><br>
       <em>International Conference on Learning Representations (ICLR), 2025.</em><br>
       <a href="https://arxiv.org/abs/2405.18540">paper</a><br><br>
-      Max-entropy RL fine-tuning to generate a diverse set of adversarial prompts that robustly elicit harmful or undesirable outputs from a range  of LLMs. 
+      Max-entropy RL fine-tuning to generate a diverse set of adversarial prompts that robustly elicit harmful or undesirable outputs from a range of LLMs.
     </td>
   </tr>
 </table>
 
 ### 3. Human-inspired agents that can continually learn
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 220px; vertical-align: top; text-align: center;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 220px; vertical-align: top; border: none;">
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="/_pages/parseval.png" alt="Paper Teaser" style="width: 200px;">
       </div>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="vertical-align: top; padding-left: 15px; border: none;">
       <strong><a href="https://arxiv.org/abs/2412.07224">Parseval Regularization for Continual Reinforcement Learning</a></strong><br>
       <em>Wesley Chung, <strong>Lynn Cherif</strong>, David Meger, Doina Precup</em><br>
       <em>Neural Information Processing Systems (NeurIPS), 2024</em><br>
       <a href="https://arxiv.org/abs/2412.07224">paper</a><br><br>
-      A regularization method to maintain the orthogonality of weight matrices during training, preserving optimization properties and enhancing learning in sequential RL tasks. 
+      A regularization method to maintain the orthogonality of weight matrices during training, preserving optimization properties and enhancing learning in sequential RL tasks.
     </td>
   </tr>
 </table>
-    
+
 ### 4. AI for accelerating scientific discovery
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 220px; vertical-align: top; text-align: center;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 220px; vertical-align: top; border: none;">
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="/_pages/pbf.png" alt="Paper Teaser" style="width: 200px;">
       </div>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="vertical-align: top; padding-left: 15px; border: none;">
       <strong><a href="https://arxiv.org/pdf/2308.14861">Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams</a></strong><br>
-      <em><strong>Lynn Cherif</strong>*, Mutahar Safdar*, Guy Lamouche, Priti Wanjara, Padma Paul, Gentry Wood, Max Zimmermann, Florian Hannesen, Yaoyao Fiona Zhao</em><br>
+      <em><strong>Lynn Cherif</strong>*, Mutahar Safdar, Guy Lamouche, Priti Wanjara, Padma Paul, Gentry Wood, Max Zimmermann, Florian Hannesen, Yaoyao Fiona Zhao</em><br>
       <em>International Federation of Automatic Control (IFAC), 2023</em><br>
       <a href="https://arxiv.org/abs/2412.07224">paper</a><br><br>
       Deep computer vision learning models to classify melt pool sequence images in metal additive manufacturing to predict in-line printing defects.
