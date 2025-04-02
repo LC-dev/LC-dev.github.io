@@ -40,7 +40,7 @@ Feel free to reach out for anything research related -- always happy to chat!
     <td style="vertical-align: middle; padding-left: 15px; border: none;">
       <strong><a href="https://openreview.net/forum?id=8ECfBsjJKZ">Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning</a></strong><br>
       <em><strong>Lynn Cherif*</strong>, Flemming Kondrup*, David Venuto, Ankit Anand, Doina Precup, Khimya Khetarpal</em><br>
-      <em>Third Workshop on Deep Learning for Code (ICLR), 2025.</em><br>
+      <em>Third Workshop on Deep Learning for Code (ICLR), 2025 | Under review at ICML 2025.</em><br>
       <a href="https://openreview.net/forum?id=8ECfBsjJKZ">paper</a><br><br>
       A framework for VLMs to generate code as affordances to enhance RL agents' sample efficiency and performance on web GUI tasks.
     </td>
@@ -93,7 +93,7 @@ Feel free to reach out for anything research related -- always happy to chat!
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none;">
       <strong><a href="https://arxiv.org/pdf/2308.14861">Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams</a></strong><br>
-      <em><strong>Lynn Cherif</strong>*, Mutahar Safdar, Guy Lamouche, Priti Wanjara, Padma Paul, Gentry Wood, Max Zimmermann, Florian Hannesen, Yaoyao Fiona Zhao</em><br>
+      <em><strong>Lynn Cherif</strong>*, Mutahar Safdar*, Guy Lamouche, Priti Wanjara, Padma Paul, Gentry Wood, Max Zimmermann, Florian Hannesen, Yaoyao Fiona Zhao</em><br>
       <em>International Federation of Automatic Control (IFAC), 2023</em><br>
       <a href="https://arxiv.org/abs/2412.07224">paper</a><br><br>
       Deep computer vision learning models to classify melt pool sequence images in metal additive manufacturing to predict in-line printing defects.
