@@ -24,7 +24,7 @@ I am excited about building AI that can serve humans at scale. Concretely, I am 
 
 During my undergraduate, I developed AI solutions for cybersecurity at [Dell Technologies](https://www.dell.com/en-ca)/[Secureworks](https://www.secureworks.com), built robots that paint beautiful artwork at [Acrylic Robotics](https://www.acrylicrobotics.ca), worked on computer vision for anomaly selection in [metal 3D printing processes](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=QfmZ_bEAAAAJ&citation_for_view=QfmZ_bEAAAAJ:9yKSN-GCB0IC), and optimized cooling systems of [advanced laser-thermal propulsion techniques](https://www.sciencedirect.com/science/article/abs/pii/S0094576521006305), amongst others. I also co-produced the [McGill AI Podcast](https://www.buzzsprout.com/1832809) where we discussed AI research, ethics, and applications with distinguished contributors in the field, and was actively involved in [student life](https://lc-dev.github.io/files/lynn-cherif-cv.pdf).
 
-Outside of research, I run, weight lift, cycle, and read.
+Outside of research, I enjoy running, weight lifting, cycling, and reading.
 
 Feel free to reach out for anything research related -- always happy to chat!
 
