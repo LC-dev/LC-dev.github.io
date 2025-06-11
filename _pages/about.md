@@ -10,9 +10,11 @@ redirect_from:
 
 ## About 
 
-I am a second-year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io), and part of the [Reasoning and Learning Lab](https://rl.cs.mcgill.ca). My research is generously supported by the Fonds de Recherche du Québec (FRQNT) and Mila. 
+I am a second-year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io), and part of the [Reasoning and Learning Lab](https://rl.cs.mcgill.ca). 
 
-I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). This summer, I am excited to be joining [Google DeepMind](https://deepmind.google).
+I am also currently a research engineering intern at [Google DeepMind](https://deepmind.google).
+
+My research has been generously funded by a NSERC Canada Graduate Scholarship,FRQNT Training Scholarships,and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). 
 
 I am excited about building AI that can serve humans at scale. Concretely, I am interested in both empirical and theoretical research, broadly focusing on:
 1. **Efficient** and **reasoning** agents by combining LLMs/VLMs and RL 
