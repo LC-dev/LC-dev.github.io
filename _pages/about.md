@@ -14,7 +14,7 @@ I am a second-year M.S. research student in Computer Science at [McGill Universi
 
 I am also currently a research engineering intern at [Google DeepMind](https://deepmind.google).
 
-My research has been generously funded by a NSERC Canada Graduate Scholarship, FRQNT Training Scholarships,and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). 
+My research has been generously funded by a NSERC Canada Graduate Scholarship, FRQNT Training Scholarships, and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). 
 
 I am excited about building AI that can serve humans at scale. Concretely, I am interested in both empirical and theoretical research, broadly focusing on:
 1. **Efficient** and **reasoning** agents by combining LLMs/VLMs and RL 
