@@ -10,9 +10,7 @@ redirect_from:
 
 ## About 
 
-I am a second-year M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io), and part of the [Reasoning and Learning Lab](https://rl.cs.mcgill.ca). 
-
-I am also currently a research engineering intern at [Google DeepMind](https://deepmind.google).
+I am a graduating M.S. research student in Computer Science at [McGill University](https://www.mcgill.ca) and [Mila](https://mila.quebec/en/), co-advised by Prof. [Doina Precup](https://cs.mcgill.ca/~dprecup/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io), and part of the [Reasoning and Learning Lab](https://rl.cs.mcgill.ca). I also spent this summer a research engineering intern at [Google DeepMind](https://deepmind.google), working on code geenration.
 
 My research has been generously funded by a NSERC Canada Graduate Scholarship, FRQNT Training Scholarships, and Mila. I previously earned a B.Eng. in Honours Mechanical Engineering with a minor in Computer Science, also at [McGill University](https://www.mcgill.ca). 
 
